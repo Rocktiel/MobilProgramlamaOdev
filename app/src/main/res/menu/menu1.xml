@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ana Sayfa"
+        android:icon="@drawable/home"/>
+    <item android:title="Arama"
+        android:icon="@drawable/search"/>
+    <item android:title="Profil"
+        android:icon="@drawable/person"/>
+
+</menu>
